@@ -6,7 +6,7 @@
 
 ## TL;DR
 
-Agentic coding tools like Claude Code are powerful accelerants that make developers faster and expand their capabilities, especially in areas outside their expertise. They require active management and new skills like code review. Success comes from:
+Agentic coding tools like Claude Code, Codex CLI, and others are powerful accelerants that make developers faster and expand their capabilities, especially in areas outside their expertise. They require active management and new skills like code review. Success comes from:
 
 - Setting up good architecture beforehand  
 - Using auto-accept for 5-15 minute tasks with feedback loops  
