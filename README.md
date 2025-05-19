@@ -172,6 +172,11 @@ In summary, agentic coding tools like Claude Code are already revolutionizing so
 
 ---
 
+About Me:
+
+I have been in software engineering for over 20 years, and I think AI is going to have a bigger impact on our industry than the Internet. I am currently a Principal Research Engineer at Kbit, digital asset hedge fund. I am occasionally on X at https://x.com/ThomasJ02
+
+
 [^1]: Non-agentic AI tools are traditional chat-based tools like ChatGPT, Gemini, or Claude. Agentic tools edit code, interact with external services, and can work in semi-autonomous long-running write/run/debug loops like a human software engineer.
 
 [^2]:  Thanks to [https://thezvi.substack.com/](https://thezvi.substack.com/) for introducing me to this phrase
